@@ -391,7 +391,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (downloadBtn) {
         downloadBtn.addEventListener('click', function() {
             // Create a temporary notification since we don't have an actual resume file
-            showNotification('Resume download feature would be implemented with actual resume file.', 'info');
+            showNotification('Thank You for your interest.', 'info');
         });
     }
 });
